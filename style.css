@@ -109,6 +109,8 @@ ARTICLE .content {
 .warning H2 {
     color: var(--darkRaspberry);
     margin-top: 0;
+    font-family: var(--outfit);
+    font-weight: var(--fw-sb);
 }
 
 IMG {
@@ -143,6 +145,7 @@ LI::marker {
 H1,
 H2 {
     font-family: var(--young);
+    font-weight: var(--fw-m);
 }
 
 H1 {
