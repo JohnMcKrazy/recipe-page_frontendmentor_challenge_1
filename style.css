@@ -171,12 +171,9 @@ TABLE TD {
     padding: .5rem 0;
 }
 
-TD {
-    font-weight: var(--fw-sb);
-}
-
 TD:nth-of-type(2n) {
     color: var(--nutmeg);
+    font-weight: var(--fw-sb);
 }
 
 .attribution {
